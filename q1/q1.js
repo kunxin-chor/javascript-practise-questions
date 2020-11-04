@@ -1,4 +1,4 @@
-const prompt = require('./common.js');
+const prompt = require('../common.js');
 
 async function main() {
     // write your code here
